@@ -1,4 +1,3 @@
-
 from bottle import route, run, Response, error, HTTPError
 from markdown2 import Markdown
 import os
